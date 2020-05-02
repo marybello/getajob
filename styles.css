@@ -220,4 +220,7 @@ left: 1rem;
 #fourth-part{
 margin: 5px;
 }
+footer .info{
+    margin: 0px;
+}
 }
